@@ -16,5 +16,5 @@ def fn_draw_quadratic_spiral(num_of_whorls=8, start_size=20):
 
 
 turtle.shape("turtle")
-fn_draw_quadratic_spiral()
+fn_draw_quadratic_spiral(12, 20)
 turtle.done()
