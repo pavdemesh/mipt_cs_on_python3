@@ -1,3 +1,4 @@
+"""Draws a spring consisting of n arches of sizes x"""
 import turtle
 import math
 
