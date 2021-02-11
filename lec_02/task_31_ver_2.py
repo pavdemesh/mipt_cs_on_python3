@@ -3,7 +3,7 @@
 from pyrob.api import *
 import time
 
-# from lab_02_robot_tasks.pyrob.core import *
+# from lec_02.pyrob.core import *
 
 
 @task(delay=0.01)
