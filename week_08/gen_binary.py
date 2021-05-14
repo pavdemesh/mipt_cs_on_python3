@@ -2,4 +2,4 @@
 # 	"""
 # 	Will generate all possible combinations of numbers with base num_base and length
 # 	"""
-print("Hello world")
+
